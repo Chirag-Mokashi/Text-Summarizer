@@ -23,7 +23,7 @@
 2. AmazonEC2FullAccess
 
 ## Create ECR repo to store/save docker image
-- Save the URI: 476203641051.dkr.ecr.eu-north-1.amazonaws.com/text-s
+- Save the URI: 476203641051.dkr.ecr.us-east-1.amazonaws.com/text-s
 
 ## Configure EC2 as self-hosted runner:
 setting>actions>runner>new self hosted runner> choose os> then run command one by one
